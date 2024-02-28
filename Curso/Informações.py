@@ -1,0 +1,21 @@
+'''nome = input('Qual é o seu nome : ')
+idade = input('Qual é a sua idade : ')
+nascimento = input('Data de nascimento : ')
+altura = input('Qual a sua altura (Em Centimetros) : ')
+peso = input('Qual é o seu peso : ')
+profissão = input('Qual é a sua profissão : ')
+estado = input('Seu estado civil é : ')
+
+print("\nInformações fornecidas:")
+print("Nome:", nome)
+print("Idade:", idade)
+print("Data de Nascimento:", nascimento)
+print("Peso:", peso)
+print("Altura:", altura)
+print("Estado:", estado)
+print("Profissão:", profissão)
+
+print(f'\nMuito Obrigado pelas informações {nome}!')
+print('Agora sabemos tudo sobre você!')
+print(f'Seu nome é {nome},sua idade é {idade},você nasceu no dia {nascimento},seu peso é {peso} e sua altura {altura},')
+print(f'seu estado civil é {estado} e por fim você trabalha como {profissão}.')'''
